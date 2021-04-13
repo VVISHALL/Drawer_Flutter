@@ -184,7 +184,8 @@ class _MyAppState extends State<MyApp> {
                     ListTile(
                         title: Text('Primary'),
                         leading: Icon(Icons.inbox),
-                    )ivider(
+                    ),
+                    Divider(
               height: 0.1,
             ),
             ListTile(
